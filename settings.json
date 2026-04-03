@@ -1,0 +1,5 @@
+{
+  "disable_ai": true,
+   "vim_mode": true,
+   "format_on_save": "on"
+}
